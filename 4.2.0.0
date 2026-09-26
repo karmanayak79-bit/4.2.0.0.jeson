@@ -6,15 +6,15 @@
         "Allowoffline": true
     },
     {
-        "device_id": "e0d90239bec614d5",
+        "device_id": "e0d90235",
         "key": "karma123",
         "expirydate": "27-09-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
+        "device_id": "e0d90239bec614d5",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "10-10-2026",
         "Allowoffline": false
     },
     {
