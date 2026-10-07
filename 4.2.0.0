@@ -145,6 +145,12 @@
         "Allowoffline": false 
     },
     {
+        "device_id": "3787114aa0517a0e",
+        "key": "jayasing123",
+        "expirydate": "21-10-2026",
+        "Allowoffline": false 
+    },
+    {
         "device_id": "",
         "key": "key12345",
         "expirydate": "31-12-2025",
