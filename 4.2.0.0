@@ -157,6 +157,12 @@
         "Allowoffline": false 
     },
     {
+        "device_id": "99c249979f19c98b",
+        "key": "jitendra123",
+        "expirydate": "10-10-2026",
+        "Allowoffline": false 
+    },
+    {
         "device_id": "",
         "key": "key12345",
         "expirydate": "31-12-2025",
