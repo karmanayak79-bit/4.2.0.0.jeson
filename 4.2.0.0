@@ -187,6 +187,12 @@
         "Allowoffline": false 
     },
     {
+        "device_id": "b8eadfab601354ea",
+        "key": "jgcdg126",
+        "expirydate": ", 29-10-2026",
+        "Allowoffline": false 
+    },
+    {
         "device_id": "",
         "key": "key12345",
         "expirydate": "31-12-2025",
