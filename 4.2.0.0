@@ -199,6 +199,12 @@
         "Allowoffline": false 
     },
     {
+        "device_id": "af3613e151327d2e",
+        "key": "BABUpujari12",
+        "expirydate": "01-11-2026",
+        "Allowoffline": false 
+    },
+    {
         "device_id": "",
         "key": "key12345",
         "expirydate": "31-12-2025",
